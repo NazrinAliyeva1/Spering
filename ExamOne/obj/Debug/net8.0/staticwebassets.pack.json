@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\c1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\c2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\c3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\c4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\c5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c5.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\c6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c6.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\call.png",
+      "PackagePath": "staticwebassets\\assets\\images\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\experience-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\experience-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\f1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\f2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\f3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\f4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\fb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\freelance-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\freelance-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\location.png",
+      "PackagePath": "staticwebassets\\assets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\mail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\menu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\next-angle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\next-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\prev-angle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prev-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\quote.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.08\\Desktop\\ExamOne\\ExamOne\\wwwroot\\assets\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExamOne.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ExamOne.props",
+      "PackagePath": "build\\ExamOne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExamOne.props",
+      "PackagePath": "buildMultiTargeting\\ExamOne.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExamOne.props",
+      "PackagePath": "buildTransitive\\ExamOne.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
