@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\Desktop\\Spering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\viewmodels\\categories\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\dataacceslayer\\speringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\dataacceslayer\\speringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\areas\\admin\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\areas\\admin\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|c:\\users\\99455\\desktop\\spering\\examone\\migrations\\20240520160704_createduserstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFC4078-939F-489B-96C0-5974C601C03C}|ExamOne\\ExamOne.csproj|solutionrelative:examone\\migrations\\20240520160704_createduserstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamOne\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T18:34:03.71Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Program.cs",
+              "RelativeDocumentMoniker": "ExamOne\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Program.cs",
+              "RelativeToolTip": "ExamOne\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:14:58.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SperingContext.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\DataAccesLayer\\SperingContext.cs",
+              "RelativeDocumentMoniker": "ExamOne\\DataAccesLayer\\SperingContext.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\DataAccesLayer\\SperingContext.cs",
+              "RelativeToolTip": "ExamOne\\DataAccesLayer\\SperingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:12:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ExamOne\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ExamOne\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:12:06.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ExamOne\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Models\\Category.cs",
+              "RelativeToolTip": "ExamOne\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:12:04.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "ExamOne\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "RelativeToolTip": "ExamOne\\ViewModels\\Categories\\GetCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:11:54.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCategoryAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "RelativeDocumentMoniker": "ExamOne\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "RelativeToolTip": "ExamOne\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:55:41.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Areas\\Admin\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamOne\\Areas\\Admin\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:02:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamOne\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:01:23.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamOne\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:01:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamOne\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:01:12.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamOne\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:01:04.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "ExamOne\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "RelativeToolTip": "ExamOne\\ViewModels\\Categories\\CreateCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:50:53.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamOne\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamOne\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:47:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExamOne\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExamOne\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:47:16.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240520160704_CreatedUsersTables.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Migrations\\20240520160704_CreatedUsersTables.cs",
+              "RelativeDocumentMoniker": "ExamOne\\Migrations\\20240520160704_CreatedUsersTables.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Migrations\\20240520160704_CreatedUsersTables.cs",
+              "RelativeToolTip": "ExamOne\\Migrations\\20240520160704_CreatedUsersTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:22:46.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamOne\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Spering\\ExamOne\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ExamOne\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T18:14:00.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,9 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Index";
 }
+
+
 <!-- category section -->
 
 <section class="category_section layout_padding">
@@ -13,7 +16,7 @@
         <div class="category_container">
             <div class="box">
                 <div class="img-box">
-                    <img src="~/assets/images/c1.png"assets alt="">
+                    <img  src="~/assets/images/c1.png" alt="">
                 </div>
                 <div class="detail-box">
                     <h5>
@@ -23,7 +26,7 @@
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="~/assets/images/c2.png" alt="">
+                    <img  src="~/assets/images/c2.png" alt="">
                 </div>
                 <div class="detail-box">
                     <h5>
@@ -33,7 +36,7 @@
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="~/assets/images/c3.png" alt="">
+                    <img  src="~/assets/images/c3.png" alt="">
                 </div>
                 <div class="detail-box">
                     <h5>
@@ -43,7 +46,7 @@
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="~/assets/images/c4.png" alt="">
+                    <img  src="~/assets/images/c4.png" alt="">
                 </div>
                 <div class="detail-box">
                     <h5>
@@ -53,7 +56,7 @@
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="~/assets/images/c5.png" alt="">
+                    <img  src="~/assets/images/c5.png" alt="">
                 </div>
                 <div class="detail-box">
                     <h5>
@@ -63,7 +66,7 @@
             </div>
             <div class="box">
                 <div class="img-box">
-                    <img src="~/assets/images/c6.png" alt="">
+                    <img  src="~/assets/images/c6.png" alt="">
                 </div>
                 <div class="detail-box">
                     <h5>
@@ -74,6 +77,60 @@
         </div>
     </div>
 </section>
-
-
 <!-- end category section -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* 
+ <!-- category section -->
+
+<section class="category_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Category
+            </h2>
+        </div>
+        <div class="category_container">
+            @foreach(var data in Model)
+            {
+                <div class="box">
+                    <div class="img-box">
+                        <img src="@data.Name" alt="">
+                    </div>
+                    <div class="detail-box">
+                        <h5>
+                           @data.Id
+                        </h5>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</section>
+<!-- end category sectio  *@
